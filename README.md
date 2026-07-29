@@ -6,7 +6,7 @@ Windows C 盘垃圾文件清理工具，带图形界面。扫描常见垃圾文�
 |---|---|
 | **中文名** | 比格熊C盘清理助手 |
 | **英文名** | bgxiong-clear-helper |
-| **作者** | im.daxiong |
+| **作者** | im.daxiong（[bgxiong.ai@gmail.com](mailto:bgxiong.ai@gmail.com)） |
 | **官网** | [bgxiong.com](https://bgxiong.com) |
 | **仓库** | [github.com/IM-DaXiong/bgxiong-clear-helper](https://github.com/IM-DaXiong/bgxiong-clear-helper) |
 | **许可证** | [PolyForm Noncommercial](LICENSE)（个人/非商免费；商用需授权） |
@@ -128,10 +128,10 @@ target\release\bgxiong-clear-helper.exe
 | 慈善、教育、科研、政府等非营利组织 | 免费允许 |
 | 商业使用（含公司内部商用、转售、捆绑销售等） | **需另行授权** |
 
-商用授权请联系官网：[bgxiong.com](https://bgxiong.com)
+商用授权请联系：[bgxiong.ai@gmail.com](mailto:bgxiong.ai@gmail.com) · 官网：[bgxiong.com](https://bgxiong.com)
 
 完整条款见仓库根目录 [`LICENSE`](LICENSE)。本协议**不是** OSI 意义上的宽松开源协议（如 MIT）：源代码可公开查阅与非商用使用，商用须获作者授权。
 
 ---
 
-作者：[im.daxiong](https://bgxiong.com) · 官网：[bgxiong.com](https://bgxiong.com)
+作者：[im.daxiong](mailto:bgxiong.ai@gmail.com)（bgxiong.ai@gmail.com） · 官网：[bgxiong.com](https://bgxiong.com)
