@@ -11,6 +11,14 @@ Windows C 盘垃圾文件清理工具，带图形界面。扫描常见垃圾文�
 | **仓库** | [github.com/IM-DaXiong/bgxiong-clear-helper](https://github.com/IM-DaXiong/bgxiong-clear-helper) |
 | **许可证** | [PolyForm Noncommercial](LICENSE)（个人/非商免费；商用需授权） |
 
+## 下载使用（推荐）
+
+无需安装 Rust，下载后双击即可运行：
+
+- [`release/bgxiong-clear-helper.exe`](release/bgxiong-clear-helper.exe)（Windows x64，约 4.8 MB）
+
+清理系统目录 / 注册表时，建议右键「以管理员身份运行」。
+
 ## 功能
 
 扫描以下类别：
