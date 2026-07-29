@@ -9,7 +9,7 @@ Windows C 盘垃圾文件清理工具，带图形界面。扫描常见垃圾文�
 | **作者** | im.daxiong |
 | **官网** | [bgxiong.com](https://bgxiong.com) |
 | **仓库** | [github.com/IM-DaXiong/bgxiong-clear-helper](https://github.com/IM-DaXiong/bgxiong-clear-helper) |
-| **许可证** | [MIT](LICENSE)（免费开源，可自由使用、修改与分发） |
+| **许可证** | [PolyForm Noncommercial](LICENSE)（个人/非商免费；商用需授权） |
 
 ## 功能
 
@@ -120,9 +120,17 @@ target\release\bgxiong-clear-helper.exe
 
 ## 许可证
 
-本项目采用 [MIT License](LICENSE)。
+本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE)。
 
-MIT 是常见的免费开源协议：可自由使用、复制、修改、合并、发布与分发，个人与非商业场景均可免费使用；仅需保留版权声明与许可证文本。详见仓库根目录 [`LICENSE`](LICENSE)。
+| 用途 | 是否允许 |
+|------|----------|
+| 个人使用、学习、爱好项目 | 免费允许 |
+| 慈善、教育、科研、政府等非营利组织 | 免费允许 |
+| 商业使用（含公司内部商用、转售、捆绑销售等） | **需另行授权** |
+
+商用授权请联系官网：[bgxiong.com](https://bgxiong.com)
+
+完整条款见仓库根目录 [`LICENSE`](LICENSE)。本协议**不是** OSI 意义上的宽松开源协议（如 MIT）：源代码可公开查阅与非商用使用，商用须获作者授权。
 
 ---
 
